@@ -1,6 +1,6 @@
 # Blog
 
-This project practice combine ReatJs with NodeJs, Express, MongoDb
+This project practices combine ReatJs with NodeJs, Express, MongoDb
 
 ## Getting Started
 
